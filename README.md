@@ -12,6 +12,7 @@ React Native.
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoSoaresRodrigues2&langs_count=10&layout=compact&theme=material-palenight)](https://github.com/GustavoSoaresRodrigues2/github-readme-stats)
  <br/>
  </div>
+ 
  ## Skills
  ![html](https://img.shields.io/badge/HTML5-e74c3c?style=for-the-badge&logo=html5&logoColor=white)
  ![css](https://img.shields.io/badge/CSS3-3498db?&style=for-the-badge&logo=css3&logoColor=white)
