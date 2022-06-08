@@ -1,9 +1,9 @@
-## Bom dia / Boa Tarde / Boa noite 😁
-### Quem sou eu? 🤔
+## Bom dia / Boa Tarde / Boa noite 😆
+### Quem sou eu? 😉
 
 Oi, meu nome é Gustavo Soares Rodrigues, estou no 3° ano do Ensino Medio, Cursando Desenvolvimento de Sistema. Atualmente estou aprendendo Html, Css, JavaScript, PHP, Sql, React Native.
-<br> Espero aprender mais fazendo algum tipo de curso de TI por causa dessa pademia, que me atrasou muito.
-<br> No momento estou fazendo meu TCC :D.
+<br> Espero aprender mais fazendo algum tipo de curso de TI por causa dessa pademia, que me atrasou muito (┬┬﹏┬┬)
+<br> No momento estou fazendo meu TCC (☞ﾟヮﾟ)☞   ☜(ﾟヮﾟ☜)
 
 <div align="center">
 
