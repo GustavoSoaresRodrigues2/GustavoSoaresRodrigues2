@@ -1,9 +1,8 @@
 ## Bom dia / Boa Tarde / Boa noite 😆
 ### Quem sou eu? 😉
 
-Oi, meu nome é Gustavo Soares Rodrigues, estou no 3° ano do Ensino Medio, Cursando Desenvolvimento de Sistema. Atualmente estou aprendendo Html, Css, JavaScript, PHP, Sql, React Native.
-<br> Espero aprender mais fazendo algum tipo de curso de TI por causa dessa pademia, que me atrasou muito (┬┬﹏┬┬)
-<br> (☞ﾟヮﾟ)☞   No momento estou fazendo meu TCC   ☜(ﾟヮﾟ☜)
+Oi, meu nome é Gustavo Soares Rodrigues, atualmente está na Universidade São Judas Tadeu (USJT), Cursando Ciências da Computação. Eu já escrevi com as linguagens:
+<br> (☞ﾟヮﾟ)☞ Html, Css, JavaScript, PHP, Sql, React Native. ☜(ﾟヮﾟ☜)
 
 <div align="center">
 
